@@ -1,0 +1,16 @@
+{
+  "name": "magical-arena",
+  "version": "1.0.0",
+  "description": "A simple game simulation for a magical combat arena.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha tests"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
