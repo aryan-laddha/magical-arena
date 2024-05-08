@@ -1,5 +1,7 @@
 # Magical Arena Game
 
+https://github.com/aryan-laddha/magical-arena
+
 ## Setup
 
 1. Install Node.js from [nodejs.org](https://nodejs.org/).
